@@ -147,5 +147,7 @@
 <p align = "center">
  <img src="https://img.shields.io/badge/-Publications-green">
 </p>
-
 </details>
+<span>Portfolio:</span> <a href="https://shahadat-space.vercel.app/" target="_blank">Shahadat@Space</a><br>
+<span>📝</span> <a href="https://shahadat-space.vercel.app/" target="_blank"> My Resume</a>
+
