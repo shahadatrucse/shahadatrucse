@@ -1,5 +1,4 @@
 <a href="https://www.linkedin.com/in/shahadat-hossain-3aa2a620b/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
 <a href="https://www.hackerrank.com/profile/shahadat_rucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahadat_rucse" width="20px"  /></a>
 <a href="https://www.codechef.com/users/shahadatrucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shahadatrucse" width="20px"  /></a>
 <a href="https://leetcode.com/u/shahadat_34/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/shahadat_34/" width="20px"  /></a>
@@ -83,7 +82,15 @@
 </h2>
 
 <p>
-  
+  <img src="views/html.png" height=40 hspace=10>
+ <img src="views/css.png" height=40 hspace=10>
+  <img src="views/tailwind.png" height=40 hspace=10>
+ <img src="views/react.png" height=40 hspace=10>
+  <img src="views/redux.png" height=40 hspace=10>
+ <img src="views/supabase.png" height=40 hspace=10>
+  <img src="views/npm.png" height=40 hspace=10>
+  <img src="views/express.png" height=40 hspace=10>
+ <img src="views/nodejs.jfif" height=40 hspace=10>
  <img src="views/git.png" height=40 hspace=10>
 </p>
 <br>
