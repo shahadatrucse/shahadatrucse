@@ -149,5 +149,5 @@
 </p>
 </details>
 <span>Portfolio:</span> <a href="https://shahadat-space.vercel.app/" target="_blank">Shahadat@Space</a><br>
-<span>📝</span> <a href="https://drive.google.com/drive/folders/1SC3Sc_bdBEeD7cifut5DZaDyWbBH46tP" target="_blank"> My Resume</a>
+<span>📝</span> <a href="https://drive.google.com/file/d/1cHt_NrmzxqPhAqoD_c3EuofpSVE3SixU/view" target="_blank"> My Resume</a>
 
