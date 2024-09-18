@@ -1,12 +1,12 @@
-<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.codechef.com/users/tvirussust" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tvirussust" width="20px"  /></a>
-<a href="https://www.hackerrank.com/towhidfoysal123" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/towhidfoysal123" width="20px"  /></a>
-<a href="https://codeforces.com/profile/YoyOyoYOy000y000" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/YoyOyoYOy000y000" width="20px"  /></a>
+<a href="https://www.linkedin.com/in/shahadat-hossain-3aa2a620b/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<h1 align="center">HELLO!</h1>
-
+<a href="https://www.hackerrank.com/profile/shahadat_rucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahadat_rucse" width="20px"  /></a>
+<a href="https://www.codechef.com/users/shahadatrucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shahadatrucse" width="20px"  /></a>
+<a href="https://leetcode.com/u/shahadat_34/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/shahadat_34/" width="20px"  /></a>
+<a href="https://codeforces.com/profile/shahadat_34" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/shahadat_34" width="20px"  /></a>
+<h1 align="center"> HELLO!</h1>
 <p align="center">
-  <a href="https://github.com/Foysal87">
+  <a href="https://github.com/shahadatrucse">
     <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </a>
 </p>
@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   <code>
-  I'm Towhid Ahmed Foysal, a Competitive programmer and NLP researcher.I am a Software Engineer at Orbitax, which is one of the biggest International tax software Industries in the world. I have a great passion in <strong>Problem Solving and Natural Language Processing Research</strong>. </code>
+  I'm Shahadat Hossain, a Competitive programmer and passionate JavaScript and React Developer for building scalable and efficient web applications. With a solid foundation in JavaScript, a knack for problem-solving, and a passion for clean, maintainable code. My collaborative nature and effective communication skills ensure a smooth project journey, from ideation to deployment. </code>
 </p>
 
 <details>
@@ -22,19 +22,30 @@
 <br>
 <h2 align="center">ONLINE JUDGE</h2>
 <p align="center">
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"><img src="https://img.shields.io/badge/Online%20Judge-Codeforces-red"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/id-YoyOyoYOy000y000-blueviolet"> </a>
-  <a href="https://codeforces.com/contests/with/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Total%20Contest-200-green"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Problem%20Solved-797-orange"> </a>
-  <a href="https://codeforces.com/profile/YoyOyoYOy000y000"> <img src="https://img.shields.io/badge/Max--rating-1868-blue"> </a>
+  <a href="https://codeforces.com/profile/shahadat_34"><img src="https://img.shields.io/badge/Online%20Judge-Codeforces-red"> </a>
+  <a href="https://codeforces.com/profile/shahadat_34"> <img src="https://img.shields.io/badge/id-shahadat_34-blueviolet"> </a>
+  <a href="https://codeforces.com/contests/with/shahadat_34"> <img src="https://img.shields.io/badge/Total%20Contest-21-green"> </a>
+  <a href="https://codeforces.com/profile/shahadat_34"> <img src="https://img.shields.io/badge/Problem%20Solved-255-orange"> </a>
+  <a href="https://codeforces.com/profile/shahadat_34"> <img src="https://img.shields.io/badge/Max--rating-879-blue"> </a>
+</p>
+  <p align="center">
+  <a href="https://leetcode.com/u/shahadat_34/"><img src="https://img.shields.io/badge/Online%20Judge-Leetcode-red"> </a>
+  <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/id-shahadat_34-blueviolet"> </a>
+  <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/Total%20Contest-4-green"> </a>
+  <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/Problem%20Solved-199-orange"> </a>
+  <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/Max--rating-1438-blue"> </a>
 </p>
 <p align="center">
-  <a href="https://www.codechef.com/users/tvirussust"><img src="https://img.shields.io/badge/Online%20Judge-Codechef-red"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/id-tvirussust-blueviolet"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Total%20Contest-20-green"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Problem%20Solved-24-orange"> </a>
-  <a href="https://www.codechef.com/users/tvirussust"> <img src="https://img.shields.io/badge/Max--rating-1874-blue"> </a>
+  <a href="https://www.codechef.com/users/shahadatrucse"><img src="https://img.shields.io/badge/Online%20Judge-Codechef-red"> </a>
+  <a href="https://www.codechef.com/users/shahadatrucse"> <img src="https://img.shields.io/badge/id-shahadatrucse-blueviolet"> </a>
+  <a href="https://www.codechef.com/users/shahadatrucse"> <img src="https://img.shields.io/badge/Total%20Contest-4-green"> </a>
+  <a href="https://www.codechef.com/users/shahadatrucse"> <img src="https://img.shields.io/badge/Problem%20Solved-19-orange"> </a>
+  <a href="https://www.codechef.com/users/shahadatrucse"> <img src="https://img.shields.io/badge/Max--rating-1399-blue"> </a>
 </p>
+  <p align="center">
+  <a href="https://www.hackerrank.com/profile/shahadat_rucse"><img src="https://img.shields.io/badge/Online%20Judge-Hackerrank-red"> </a>
+  <a href="https://www.hackerrank.com/profile/shahadat_rucse"> <img src="https://img.shields.io/badge/id-shahadat_rucse-blueviolet"> </a>
+  </p>
  </details>
 <details>
  <summary> ✇ <b>Research Area</b>: </summary>
@@ -60,37 +71,10 @@
 <br>
 <p>
   <img src="views/cpp.jpg" height=40 hspace=10>
-  <img src="views/java.png" height=40 hspace=10>
   <img src="views/javascript.png" height=40 hspace=10>
+  <img src="views/java.png" height=40 hspace=10>
   <img src="views/python.png" height=40 hspace=10>
   <img src="views/sql.png" height=40 hspace=10>
-</p>
-
-<br>
-<h2>
-  <code>
-    Integrated Development Environment(IDE)
-  </code>
-</h2>
-<br>
-<p>
-  <img src="views/android_studio.png" height=40 hspace=10>
-  <img src="views/codeblocks.png" height=40 hspace=10>
-  <img src="views/pycharm.png" height=40 hspace=10>
-  <img src="views/netbeans.png" height=40 hspace=10>
-  <img src="views/sublime.svg" height=40 hspace=10>
-  <img src="views/vscode.png" height=40 hspace=10>
-</p>
-<h2>
-  <code>
-    Database
-  </code>
-</h2>
-<br>
-<p>
- <img src="views/mongodb.png" height=40 hspace=10>
- <img src="views/mysql.png" height=40 hspace=10>
- <img src="views/firebase.png" height=40 hspace=10>
 </p>
 <h2>
   <code>
@@ -99,12 +83,35 @@
 </h2>
 
 <p>
- <img src="views/pypi.png" height=40 hspace=10>
+  
  <img src="views/git.png" height=40 hspace=10>
- <img src="views/tensorflow.png" height=40 hspace=10>
- <img src="views/pytorch.png" height=40 hspace=10>
 </p>
 <br>
+<h2>
+  <code>
+    Database
+  </code>
+</h2>
+<br>
+<p>
+  <img src="views/mysql.png" height=40 hspace=10>
+ <img src="views/mongodb.png" height=40 hspace=10>
+</p>
+<br>
+<h2>
+  <code>
+    Integrated Development Environment(IDE)
+  </code>
+</h2>
+<br>
+<p>
+  <img src="views/vscode.png" height=40 hspace=10>
+  <img src="views/android_studio.png" height=40 hspace=10>
+  <img src="views/codeblocks.png" height=40 hspace=10>
+  <img src="views/pycharm.png" height=40 hspace=10>
+  <img src="views/sublime.svg" height=40 hspace=10>
+</p>
+<h2>
 </details>
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
