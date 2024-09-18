@@ -1,14 +1,12 @@
-<a href="https://www.linkedin.com/in/towhid-ahmed-67476818b/" target="_blank" rel="nofollow"><img align="right" alt="Foysal's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/shahadat-hossain-3aa2a620b/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <a href="https://www.hackerrank.com/profile/shahadat_rucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahadat_rucse" width="20px"  /></a>
 <a href="https://www.codechef.com/users/shahadatrucse" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shahadatrucse" width="20px"  /></a>
 <a href="https://leetcode.com/u/shahadat_34/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/u/shahadat_34/" width="20px"  /></a>
 <a href="https://codeforces.com/profile/shahadat_34" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/shahadat_34" width="20px"  /></a>
-
-<h1 align="center">HELLO!</h1>
-
+<h1 align="center"> HELLO!</h1>
 <p align="center">
-  <a href="https://github.com/Foysal87">
+  <a href="https://github.com/shahadatrucse">
     <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
   </a>
 </p>
@@ -31,7 +29,7 @@
   <a href="https://codeforces.com/profile/shahadat_34"> <img src="https://img.shields.io/badge/Max--rating-879-blue"> </a>
 </p>
   <p align="center">
-  <a href="https://leetcode.com/u/shahadat_34/"><img src="https://img.shields.io/badge/Online%20Judge-Codechef-red"> </a>
+  <a href="https://leetcode.com/u/shahadat_34/"><img src="https://img.shields.io/badge/Online%20Judge-Leetcode-red"> </a>
   <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/id-shahadat_34-blueviolet"> </a>
   <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/Total%20Contest-4-green"> </a>
   <a href="https://leetcode.com/u/shahadat_34/"> <img src="https://img.shields.io/badge/Problem%20Solved-199-orange"> </a>
@@ -45,8 +43,8 @@
   <a href="https://www.codechef.com/users/shahadatrucse"> <img src="https://img.shields.io/badge/Max--rating-1399-blue"> </a>
 </p>
   <p align="center">
-  <a href="https://codeforces.com/profile/shahadat_34"><img src="https://img.shields.io/badge/Online%20Judge-Codeforces-red"> </a>
-  <a href="https://codeforces.com/profile/shahadat_34"> <img src="https://img.shields.io/badge/id-shahadat_34-blueviolet"> </a>
+  <a href="https://www.hackerrank.com/profile/shahadat_rucse"><img src="https://img.shields.io/badge/Online%20Judge-Hackerrank-red"> </a>
+  <a href="https://www.hackerrank.com/profile/shahadat_rucse"> <img src="https://img.shields.io/badge/id-shahadat_rucse-blueviolet"> </a>
   </p>
  </details>
 <details>
@@ -73,37 +71,10 @@
 <br>
 <p>
   <img src="views/cpp.jpg" height=40 hspace=10>
-  <img src="views/java.png" height=40 hspace=10>
   <img src="views/javascript.png" height=40 hspace=10>
+  <img src="views/java.png" height=40 hspace=10>
   <img src="views/python.png" height=40 hspace=10>
   <img src="views/sql.png" height=40 hspace=10>
-</p>
-
-<br>
-<h2>
-  <code>
-    Integrated Development Environment(IDE)
-  </code>
-</h2>
-<br>
-<p>
-  <img src="views/android_studio.png" height=40 hspace=10>
-  <img src="views/codeblocks.png" height=40 hspace=10>
-  <img src="views/pycharm.png" height=40 hspace=10>
-  <img src="views/netbeans.png" height=40 hspace=10>
-  <img src="views/sublime.svg" height=40 hspace=10>
-  <img src="views/vscode.png" height=40 hspace=10>
-</p>
-<h2>
-  <code>
-    Database
-  </code>
-</h2>
-<br>
-<p>
- <img src="views/mongodb.png" height=40 hspace=10>
- <img src="views/mysql.png" height=40 hspace=10>
- <img src="views/firebase.png" height=40 hspace=10>
 </p>
 <h2>
   <code>
@@ -112,12 +83,35 @@
 </h2>
 
 <p>
- <img src="views/pypi.png" height=40 hspace=10>
+  
  <img src="views/git.png" height=40 hspace=10>
- <img src="views/tensorflow.png" height=40 hspace=10>
- <img src="views/pytorch.png" height=40 hspace=10>
 </p>
 <br>
+<h2>
+  <code>
+    Database
+  </code>
+</h2>
+<br>
+<p>
+  <img src="views/mysql.png" height=40 hspace=10>
+ <img src="views/mongodb.png" height=40 hspace=10>
+</p>
+<br>
+<h2>
+  <code>
+    Integrated Development Environment(IDE)
+  </code>
+</h2>
+<br>
+<p>
+  <img src="views/vscode.png" height=40 hspace=10>
+  <img src="views/android_studio.png" height=40 hspace=10>
+  <img src="views/codeblocks.png" height=40 hspace=10>
+  <img src="views/pycharm.png" height=40 hspace=10>
+  <img src="views/sublime.svg" height=40 hspace=10>
+</p>
+<h2>
 </details>
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
