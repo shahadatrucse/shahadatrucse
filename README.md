@@ -47,18 +47,6 @@
   </p>
  </details>
 <details>
- <summary> ✇ <b>Research Area</b>: </summary>
-<br>
-<h2 align="center">RESEARCH</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-yellowgreen">
-   <img src="https://img.shields.io/badge/-Machine%20Learning-orange">
-  <img src="https://img.shields.io/badge/-NLP-red">
-  <img src="https://img.shields.io/badge/-Basic%20Blockchain%20with%20fabrics-blue">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
-</p>
- </details>
-<details>
  <summary> ✇ <b>Skills</b>: </summary>
 <br>
 
@@ -83,15 +71,15 @@
 
 <p>
   <img src="views/html.png" height=40 hspace=10>
- <img src="views/css.png" height=40 hspace=10>
+  <img src="views/css.png" height=40 hspace=10>
   <img src="views/tailwind.png" height=40 hspace=10>
- <img src="views/react.png" height=40 hspace=10>
+  <img src="views/react.png" height=40 hspace=10>
   <img src="views/redux.png" height=40 hspace=10>
- <img src="views/supabase.png" height=40 hspace=10>
+  <img src="views/supabase.png" height=40 hspace=10>
   <img src="views/npm.png" height=40 hspace=10>
   <img src="views/express.png" height=40 hspace=10>
- <img src="views/nodejs.jfif" height=40 hspace=10>
- <img src="views/git.png" height=40 hspace=10>
+  <img src="views/nodejs.jfif" height=40 hspace=10>
+  <img src="views/git.png" height=40 hspace=10>
 </p>
 <br>
 <h2>
@@ -102,7 +90,7 @@
 <br>
 <p>
   <img src="views/mysql.png" height=40 hspace=10>
- <img src="views/mongodb.png" height=40 hspace=10>
+  <img src="views/mongodb.png" height=40 hspace=10>
 </p>
 <br>
 <h2>
@@ -123,32 +111,41 @@
 <details>
  <summary> ✇ <b>Current Status</b>: </summary>
 <br>
-- 🌱 I’m currently working on <code>Natural Language Processing Toolkit (sbnltk) and in orbitax Bangladesh Limited </code> <br>
-- 🤝 I’m looking for help in <code>Bangla Corpus Collection </code> <br>
-- 📫 I'm learning <code>c#,dotnet,angular,...</code> <br>
-- 👯 I’m looking to collaborate on <code> Bangla NLP toolkit(sbnltk) </code> <br>
-- 🕸️ Ask me about <code> Problem Solving and Deep learning </code> <br>
+- 🌱 I’m currently working on <code> on my personal resume project using MERN </code> <br>
+- 🤝 I’m looking for help in <code> MERN Stack </code> <br>
+- 📫 I'm learning <code>ReactJs, NodeJs, NextJs,...</code> <br>
+- 🕸️ Ask me about anything, I am happy to help;
 - 🌀 Trying to blog at <code> github </code> <br>
-- 💬 You can reach me <code> towhidfoysal123@gmail.com </code> <br>
-- ⚡  Gaming: COD, PUBG ,Valorant and Fall Guys
+- 💬 You can reach me <code> shahadat.rucse@gmail.com </code> <br>
 
 </details>
 <details>
  <summary> ✇ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Foysal87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Foysal87&hide=TeX,HTML&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shahadatrucse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shahadatrucse&hide=TeX,HTML&theme=tokyonight">
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Foysal87&label=Profile%20views&color=0e75b6&style=flat" alt="Towhid Ahmed Foysal" /> </p>
+<img src="https://komarev.com/ghpvc/?username=shahadatrucse&label=Profile%20views&color=0e75b6&style=flat" alt="Shahadat Hossain" /> </p>
 </details>
-
+<details>
+ <summary> ✇ <b>Research Area</b>: </summary>
+<br>
+<h2 align="center">RESEARCH</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Deep%20Learning-yellowgreen">
+   <img src="https://img.shields.io/badge/-Machine%20Learning-orange">
+  <img src="https://img.shields.io/badge/-NLP-red">
+  <img src="https://img.shields.io/badge/-Basic%20Blockchain%20with%20fabrics-blue">
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet">  
+</p>
+ </details>
 <details>
  <summary> ✇ <b>Publications</b>: </summary>
 <br>
 <p align = "center">
- 1. <a href="https://ieeexplore.ieee.org/document/9667900"> Bangla Extractive Text Summarization </a>
+ <img src="https://img.shields.io/badge/-Publications-green">
 </p>
 
 </details>
